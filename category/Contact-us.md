@@ -3,6 +3,6 @@ layout: category
 title: Contact
 ---
 
-E_mail: ratf.ctf@gmail.com
-Facebook: /Ratf
-Twitter: @RATF_CTFTEAM
+<br>E_mail: ratf.ctf@gmail.com</br>
+<br>Facebook: /Ratf</br>
+<br>Twitter: @RATF_CTFTEAM</br>
