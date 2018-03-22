@@ -1,8 +1,0 @@
----
-layout: post
-title: Searching for news flags
-excerpt_separator:  <!--more-->
----
-
-###Searching for news flags...
-
