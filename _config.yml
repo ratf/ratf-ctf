@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            RATF CTF TEAM
+title:            RATF CTF Team
 tagline:          'RATF - CTF TEAM'
-description:      'Drink all the boozes, hack all the things'
+description:      'Drink all the boozes, Hack all the things'
 url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
