@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            RATF CTF Team
 tagline:          'RATF - CTF TEAM'
 description:      'Drink all the boozes, Hack all the things'
-url:              https://fongandrew.github.io/hydeout
+url:              http://ratf.com.br
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -14,8 +14,8 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'RATF'
+  url:            https://twitter.com/ratf_ctfteam
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -34,4 +34,4 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             https://github.com/ratf/
