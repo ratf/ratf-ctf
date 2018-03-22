@@ -14,7 +14,7 @@ Jordyf<br>
 Shx<br>
 Muzak<br>
 [Ferreirasc](https://github.com/ferreirasc)<br>
-w00f<br>
+[w00f](https://github.com/w00fx)<br>
 MaStErBiLL<br>
 b2e4gl3<br>
 [Foucan](https://github.com/F0uCan)<br>
