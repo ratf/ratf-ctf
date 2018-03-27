@@ -5,8 +5,8 @@ title: Members
 
 <strong>root@skynet:~# cut -d: -f1 /etc/passwd</strong><br>
 
-Macmod<br>
-Brennords<br>
+[Macmod](https://github.com/Macmod)<br>
+[Brennords](https://github.com/brennords)<br>
 [Fc03lh0](https://github.com/fabioccoelho)<br>
 Kalet<br>
 DKR<br>
